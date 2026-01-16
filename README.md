@@ -148,8 +148,8 @@ This project is shared for **educational and analytical purposes only**. Any reu
 
 ## ✨ Connect with Me
 
-* [LinkedIn](https://www.linkedin.com/in/amit-kharche)
-* [Medium](https://medium.com/@amitkharche14)
+* [LinkedIn](https://www.linkedin.com/in/amitkharche)
+* [Medium](https://medium.com/@amitkharche)
 * [GitHub](https://github.com/amitkharche)
 
 ⭐ If you found this project valuable, don’t forget to **star the repo** and share your feedback!
